@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @archwin010
+- 👋 Hi, I’m Godwin Archibong
 - 👀 I’m interested in learning and connecting.
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Web Development and I am also a Web3 enthusiast
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me https://twitter.com/ghordwhin1
 
